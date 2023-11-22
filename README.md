@@ -3,9 +3,6 @@
 
 
   
-Currently learning: 
-
-<img src="https://www.flaticon.com/free-icon/python_5968396?related_id=5968396" alt="Python Icon">
 
 
 
