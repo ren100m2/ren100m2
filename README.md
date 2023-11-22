@@ -3,11 +3,13 @@
 
 
 <h4 align="center">
+  
 Currently learning: 
-**python, django, basic front-end stuff.**
+python, django, basic front-end stuff.
 
 Looking to collaborate on: 
-**small python/django projects with other beginners.**
+small python/django projects with other beginners.
+
 </h4>
 
 </p>
