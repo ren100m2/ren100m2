@@ -2,10 +2,13 @@
 <h3 align="center">Welcome to my GitHub profile.</h3>
 
 
+<h4 align="center">
+Currently learning: 
+**python, django, basic front-end stuff.**
 
-Currently learning: **python, django, basic front-end stuff.**
-
-Looking to collaborate on **small python/django projects with other beginners.**
+Looking to collaborate on: 
+**small python/django projects with other beginners.**
+</h4>
 
 </p>
 
