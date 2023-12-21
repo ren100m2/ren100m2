@@ -1,5 +1,8 @@
 <h1 align="center">Hello, pardner!</h1>
-<h3 align="center">Welcome to my GitHub profile.</h3>
+<h3 align="center">Not much to see here at the moment. But hopefully that changes soon. 
+Working on improving my python+django skills along with bootstrap toolkit. 
+If you want to chat, learn or work on something together - feel free to message me.
+</h3>
 
 
   
